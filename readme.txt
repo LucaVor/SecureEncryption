@@ -1,0 +1,1 @@
+Encryption class with python, inspired by Zobrist hashing, extremely secure with end-to-end key based encryption.
